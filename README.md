@@ -85,6 +85,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:hjc3790@gmail.com)
 
 #
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hjinn0813&layout=compact&theme=material-palenight)
 
 ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hjinn0813&count_private=true&theme=material-palenight)
 
