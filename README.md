@@ -79,15 +79,10 @@
   </tr>
  </table>
 
-#
-
 [![Static Badge](https://img.shields.io/badge/Click_and_check-my_career_timeline-c165ef?style=flat-square)](https://github.com/yjinn0813/yjinn0813/blob/main/studyTimeline.md)
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yjinn0813&layout=compact&theme=material-palenight)
-
-![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yjinn0813&count_private=true&theme=material-palenight)
-
 #
+
 <a href="mailto:hjc3790@gmail.com" target="_blank">
  <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
 </a>
@@ -100,3 +95,11 @@
 <br>
 
 [![Blog GitHub stats](https://blog-readme-stats-one.vercel.app/api/blog/card/list?rss=https://hjinn0813.tistory.com/rss)](https://hjinn0813.tistory.com)
+
+#
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yjinn0813&layout=compact&theme=material-palenight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjinn0813&show_icons=true&theme=material-palenight)
+
+![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yjinn0813&count_private=true&theme=material-palenight)
