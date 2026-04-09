@@ -82,7 +82,7 @@
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="next.js">
     </td>
     <td colspan="2" style="text-align: center">
-      학습자료: <a href="https://github.com/hjinn0813/nextjs-start" target="_blank">README
+      학습자료: <a href="https://github.com/yjinn0813/nextjs-start" target="_blank">README
     </td>
   </tr>
 
@@ -107,7 +107,7 @@
     </td>
     <td style="text-align: center">학습자료</td>
     <td style="text-align: center">
-      <a href="https://github.com/hjinn0813/newdeal" target="_blank">README
+      <a href="https://github.com/yjinn0813/newdeal" target="_blank">README
     </td>
   </tr>
   <tr>
@@ -115,21 +115,21 @@
     <td style="text-align: center">
       <a href="https://cinetalk.vercel.app" target="_blank">Website
       <br>
-      <a href="https://github.com/hjinn0813/cinetalk" target="_blank">README
+      <a href="https://github.com/yjinn0813/cinetalk" target="_blank">README
     </td>
   </tr>
   <tr>
     <td style="text-align: center">Portfolio ver.2<br/>(with React)</td>
     <td style="text-align: center">
-      <a href="https://hjinn0813.vercel.app" target="_blank">Website
+      <a href="https://yjinn0813.vercel.app" target="_blank">Website
       <br>
-      <a href="https://github.com/hjinn0813/portfolio" target="_blank">README
+      <a href="https://github.com/yjinn0813/portfolio" target="_blank">README
     </td>
   </tr>
   <tr>
     <td style="text-align: center">Portfolio ver.1<br/>(with JS)</td>
     <td style="text-align: center">
-      <a href="https://github.com/hjinn0813/hjinn0813.github.io" target="_blank">README
+      <a href="https://github.com/yjinn0813/yjinn0813.github.io" target="_blank">README
     </td>
   </tr>
 
@@ -140,7 +140,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     </td>
     <td colspan="2" style="text-align: center">
-      학습자료: <a href="https://github.com/hjinn0813/python-start" target="_blank">README
+      학습자료: <a href="https://github.com/yjinn0813/python-start" target="_blank">README
     </td>
   </tr>
 
@@ -181,13 +181,13 @@
     </td>
     <td style="text-align: center">학습자료</td>
     <td style="text-align: center">
-      <a href="https://github.com/hjinn0813/SeSAC-GD-3rd" target="_blank">README
+      <a href="https://github.com/yjinn0813/SeSAC-GD-3rd" target="_blank">README
     </td>
   </tr>
   <tr>
     <td style="text-align: center">에버파워<br/>(EVERPOWER)</td>
     <td style="text-align: center">
-      <a href="https://github.com/hjinn0813/EVERPOWER" target="_blank">README
+      <a href="https://github.com/yjinn0813/EVERPOWER" target="_blank">README
     </td>
   </tr>
   <tr>
@@ -226,7 +226,7 @@
     <td style="text-align: center">
       <a href="https://mbti-test-hjcho.netlify.app" target="_blank">Website
       <br>
-      <a href="https://github.com/hjinn0813/mbti_test" target="_blank">README
+      <a href="https://github.com/yjinn0813/mbti_test" target="_blank">README
     </td>
   </tr>
   <tr>
@@ -234,7 +234,7 @@
     <td style="text-align: center">
       <a href="https://namecard-hjcho.netlify.app" target="_blank">Website
       <br>
-      <a href="https://github.com/hjinn0813/namecard" target="_blank">README
+      <a href="https://github.com/yjinn0813/namecard" target="_blank">README
     </td>
   </tr>
   <tr>
