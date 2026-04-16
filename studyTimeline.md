@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" alt="Swiper">
       <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="capacitor">
     </td>
-    <td colspan="2" style="text-align: center">푸딘코 리액트 웹앱<br>(2025.10 ~ 2025.12)</td>
+    <td colspan="2" style="text-align: center">FDK 리액트 웹앱<br>(2025.10 ~ 2025.12)</td>
   </tr>
   <tr>
     <td>
@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
     </td>
     <td colspan="2" style="text-align: center">
-      푸딘코 테이블오더<br>(2025.01 ~ 2026.02)
+      FDK 테이블오더<br>(2025.01 ~ 2026.02)
       <ul>
         <li>5/26 - 테이블오더 1차 런칭</li>
         <li>7/11 - 테이블오더 2차 런칭</li>
@@ -57,7 +57,7 @@
       <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
     </td>
-    <td colspan="2">펫벨업 자사몰 (외주 커머스)<br>(2024.09 ~ 2026.01)</td>
+    <td colspan="2">반려동물 기능성 식품 자사몰 (외주 커머스)<br>(2024.09 ~ 2026.01)</td>
   </tr>
   <tr>
     <td>
