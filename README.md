@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Fast_API-009688?style=flat-square&logo=fastAPI&logoColor=white" alt="fastapi">
+    <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="supabase">
    </td>
   </tr>
   <tr>
