@@ -81,7 +81,7 @@
 
 #
 
-<a href="mailto:hjc3790@gmail.com" target="_blank">
+<a href="mailto:yjinn0813@gmail.com" target="_blank">
  <img src="https://skillicons.dev/icons?i=gmail&theme=light"/>
 </a>
 <a href="https://www.linkedin.com/in/yjinn0813" target="_blank">
