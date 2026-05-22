@@ -11,11 +11,25 @@
       Project links
     </th>
   </tr>
+
+  <!-- supabase, vitest, cypress -->
+  <tr>
+    <td style="text-align: center">2026.04 ~</td>
+    <td style="text-align: center">셀프 스터디</td>
+    <td style="text-align: center">
+      <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="github actions">
+      <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="supabase">
+      <img src="https://img.shields.io/badge/vitest-000?style=flat-square&logo=vitest&logoColor=00ff74" alt="vitest">
+      <img src="https://img.shields.io/badge/cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="cypress">
+    </td>
+    <td colspan="2" style="text-align: center"></td>
+  </tr>
+
+  <!-- hlw -->
   <tr>
     <td rowspan="4" style="text-align: center">2024.09 ~ 2026.02</td>
     <td rowspan="4" style="text-align: center">Start Developer Career</td>
     <td style="text-align: center">
-      <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="Typescript">
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" alt="tailwind">
@@ -23,6 +37,7 @@
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="axios">
       <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=Zustand&logoColor=white" alt="zustand">
       <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white" alt="Swiper">
+      <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite">
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
        <img src="https://img.shields.io/badge/Google_Sheet-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="googlesheet">
     </td>
