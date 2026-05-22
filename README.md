@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="Typescript">
+    <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
     <br>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="next.js">
@@ -62,6 +62,9 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
     <!-- <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="intelliJ"> -->
     <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="github_actions">
+    <br>
+    <img src="https://img.shields.io/badge/vitest-000?style=flat-square&logo=vitest&logoColor=00ff74" alt="vitest">
+    <img src="https://img.shields.io/badge/cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="cypress">
    </td>
   </tr>
   <tr>
@@ -97,7 +100,5 @@
 #
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yjinn0813&layout=compact&theme=material-palenight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yjinn0813&show_icons=true&theme=material-palenight)
 
 ![Longest streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yjinn0813&count_private=true&theme=material-palenight)
