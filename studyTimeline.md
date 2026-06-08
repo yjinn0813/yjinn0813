@@ -18,9 +18,9 @@
     <td style="text-align: center">셀프 스터디</td>
     <td style="text-align: center">
       <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="github actions">
-      <img src="https://img.shields.io/badge/supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="supabase">
-      <img src="https://img.shields.io/badge/vitest-000?style=flat-square&logo=vitest&logoColor=00ff74" alt="vitest">
-      <img src="https://img.shields.io/badge/cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="cypress">
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="supabase">
+      <img src="https://img.shields.io/badge/Vitest-000?style=flat-square&logo=vitest&logoColor=00ff74" alt="vitest">
+      <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="cypress">
     </td>
     <td colspan="2" style="text-align: center"></td>
   </tr>
