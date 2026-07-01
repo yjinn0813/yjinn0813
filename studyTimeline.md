@@ -41,19 +41,20 @@
        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
        <img src="https://img.shields.io/badge/Google_Sheet-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="googlesheet">
     </td>
-    <td colspan="2" style="text-align: center">FDK 리액트 웹앱<br>(2025.10 ~ 2025.12)</td>
+    <td colspan="2" style="text-align: center">FDK 서비스 웹버전 개발<br>(2025.10 ~ 2025.12)</td>
   </tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
-      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="apache">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="socket.io">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" alt="MariaDB">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
       <img src="https://img.shields.io/badge/Google_Sheet-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="googlesheet">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
     </td>
     <td colspan="2" style="text-align: center">
       FDK 테이블오더<br>(2025.01 ~ 2026.02)
@@ -66,11 +67,13 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white" alt="php">
-      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="apache">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="JQuery">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" alt="filezilla">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" alt="Slack">
+      <img src="https://img.shields.io/badge/Google_Sheet-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="googlesheet">
     </td>
     <td colspan="2">반려동물 기능성 식품 자사몰 (외주 커머스)<br>(2024.09 ~ 2026.01)</td>
   </tr>
