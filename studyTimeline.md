@@ -106,9 +106,9 @@
 
   <!-- 뉴딜 -->
   <tr>
-    <td rowspan="4" style="text-align: center">2024.07 <br>~ 2024.08</td>
-    <td rowspan="4" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290H)</td>
-    <td rowspan="4" style="text-align: center">
+    <td rowspan="3" style="text-align: center">2024.07 <br>~ 2024.08</td>
+    <td rowspan="3" style="text-align: center">서울시 뉴딜 일자리 <br>- 모던 웹 풀스택 개발자 과정 (290H)</td>
+    <td rowspan="3" style="text-align: center">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -137,17 +137,11 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align: center">Portfolio ver.2<br/>(with React)</td>
+    <td style="text-align: center">Portfolio<br/>(with React)</td>
     <td style="text-align: center">
       <a href="https://yjinn0813.vercel.app" target="_blank">Website
       <br>
       <a href="https://github.com/yjinn0813/portfolio" target="_blank">README
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center">Portfolio ver.1<br/>(with JS)</td>
-    <td style="text-align: center">
-      <a href="https://github.com/yjinn0813/yjinn0813.github.io" target="_blank">README
     </td>
   </tr>
 
@@ -265,11 +259,3 @@
     <td colspan="2" style="text-align: center"></td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
